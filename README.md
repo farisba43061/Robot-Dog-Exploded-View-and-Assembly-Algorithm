@@ -35,7 +35,7 @@ The exploded view separates the parts to clearly show their positions and connec
 
 ## Onshape Link
 
-https://cad.onshape.com/documents/7b7aa673e4750345be12c252/w/61596e3cab8fb08d7c12eb82/e/e9c66a2c462512bd0bccb382?explodedView=MBGsU7%2Bf6QV0pwmYj&renderMode=0&uiState=6a6b8a618da84d1e22307aef
+https://cad.onshape.com/documents/7b7aa673e4750345be12c252/w/61596e3cab8fb08d7c12eb82/e/e9c66a2c462512bd0bccb382
 
 ## Author
 
